@@ -1,4 +1,4 @@
-## Incêndios florestais no Brasil
+## Incêndios Florestais no Brasil
 
 Este projeto tem o intuito de analisar, por meio da linguagem Python e suas bibliotecas, os incêndios florestais no Brasil, de 1997 a 2017. 
 Para isso, utilizou-se os dados de uma planilha do Excel (fornecida por um curso de Análise de Dados com Python da plataforma Udemy). 
